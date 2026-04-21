@@ -1,25 +1,25 @@
 {
-  "nombre": "Tu Nombre Completo",
-  "email": "tuemail@ejemplo.com",
-  "telefonoCompleto": "+34693500740",
-  "telefonoMostrado": "+34 693 500 740",
-  "empresa": "Tu Empresa",
-  "puesto": "Tu Puesto/Título",
-  "descripcion": "Descripción profesional breve",
-  "web": "https://tudominio.com",
+  "nombre": "Pilar Fanlo Bellido",
+  "email": "pilarfanlob@gmail.com",
+  "telefonoCompleto": "+34663427697",
+  "telefonoMostrado": "+34 663 427 697",
+  "empresa": "Kings Corner",
+  "puesto": "Estudiante",
+  "descripcion": "Estudiante de Marketing y Publicidad",
+  "web": "https://fp.kingscorner.es/",
   "ubicacion": "Zaragoza , España",
   "redes": {
-    "linkedin": "https://linkedin.com/in/tuusuario",
-    "github": "https://github.com/tuusuario",
-    "instagram": "@tuusuario"
+    "linkedin": "www.linkedin.com/in/pilar-fanlo-bellido-9179a3365",
+    "github": "https://github.com/Pilar314",
+    "instagram": "@pilarb3.14"
   },
   "empresa_datos": {
-    "nombre": "Nombre de la Empresa",
-    "email": "empresa@ejemplo.com",
-    "web": "https://empresa.com"
+    "nombre": "Kings Corner",
+    "email": "fp@kingscorner.es",
+    "web": "https://fp.kingscorner.es/"
   },
   "diseno": {
-    "colorPrincipal": "#d4af37",
+    "colorPrincipal": "#9d00ff",
     "colorFondo": "#1a1a1a",
     "colorAcento": "#764ba2"
   }
